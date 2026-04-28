@@ -2,10 +2,6 @@
 
 <h3 align="left">Web Developer | Mahasiswa Polibatam | something impressive </h3>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0EA5E9&width=435&lines=Membangun+aplikasi+web+fungsional;Antusias+pada+Arsitektur+Database;Merancang+UI/UX+yang+interaktif" alt="Typing SVG" />
-</p>
-
 ---
 
 ### About me
